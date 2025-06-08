@@ -65,6 +65,19 @@ This project presents a comprehensive **HR Analytics Dashboard** developed using
 
 ---
 
+## Dashboard Access
+This Power BI dashboard is hosted privately.
+
+To request access:
+
+1. Make sure you have a Power BI account.
+
+2. Send a view-access request via the link given above.
+
+Note: Access will only be granted to users with a valid Microsoft account.
+
+---
+
 ## Author
 
 Mugilkrishna D U
@@ -72,3 +85,4 @@ Mugilkrishna D U
 ## Note
 
 This project is for educational purposes and does not carry any commercial license. This is just designed to help you understand the basics of PowerBI and give a clear cut idea on the dashboard components
+
